@@ -1,6 +1,3 @@
-<img width="1200" alt="gladiators-game-banner" src="https://github.com/SpeedVlad/gladiators_game/blob/main/assets/banner.png?raw=true">
-<br /><br />
-
 <section align="center">
   <h1>🏛️ Gladiators Game</h1>
   <p>A tactical turn-based combat game featuring legendary gladiators. Build your arena, train fighters, and prove your dominance in epic battles.</p>
